@@ -1,0 +1,6 @@
+{
+  "name": "ParcelHeat — Real Estate Value Heatmap",
+  "description": "Geocode physical real estate addresses and visualize property value heat signatures on an interactive Google Map using deck.gl HeatmapLayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
